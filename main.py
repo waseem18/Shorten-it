@@ -45,7 +45,7 @@ class MainHandler(BaseHandler):
             idd_c = idd_c/62
         id_list.reverse()
         i=0
-        final_url = "http://url-s123.appspot.com/"
+        final_url = "http://shorten-it-app.appspot.com/"
         while i<len(id_list):
             x = alphabets[id_list[i]]
             i = i+1
@@ -65,7 +65,6 @@ class MainHandler(BaseHandler):
             except ValueError:
                 short_path_id.append(alphabets.index(int(path[j])))
                 j = j + 1
-        self.response.out.write(short_path_id)
         
 
 
