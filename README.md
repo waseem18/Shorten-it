@@ -8,7 +8,7 @@ Release status: alpha
 Send me a pull request to report bugs or to add any new features.
 
 License
-========
+----------
 
 MIT License
 
