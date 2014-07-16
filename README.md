@@ -9,10 +9,11 @@ Send me a pull request to report bugs or to add any new features.
 
 
 Note
----------
+-------
 
-Still code to be added!
+The code to redirect the shortened URL to the long URL to be added.
 
+Working on it. Will be adding the logic soon!
 
 
 
