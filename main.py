@@ -34,7 +34,7 @@ class MainHandler(BaseHandler):
         lurl_instance = StoreUrl(lurl=lurl)
         lurl_instance.put()
         k = lurl_instance.key()
-        idd = k.id() #Here comes the ID of the stored url which I needed the most!
+        idd = k.id() #Here comes the ID of the stored url which I needed the most.
         #This ID which is in deciml form should be converted into BASE62 form!
         #Below is the algorithm of conversion.
         idd_c = idd%1000000
