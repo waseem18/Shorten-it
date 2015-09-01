@@ -9,6 +9,7 @@ Note
 
 The code to redirect the shortened URL to the long URL to be added.
 
+The code will soon be updated. 
 
 
 License
