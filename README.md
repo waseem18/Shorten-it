@@ -16,6 +16,4 @@ Any one willing to contribute to this repository can contact me!
 License
 ----------
 
-MIT License
-
-2014 © Wasim Thabraze
+MIT
